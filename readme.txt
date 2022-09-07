@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks cahnges of files.
 Git tracks changes of files.
 I want to be a jotanger!
+I love jotang!
