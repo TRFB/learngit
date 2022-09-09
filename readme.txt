@@ -7,3 +7,4 @@ I want to be a jotanger!
 I love jotang!
 Creating a new branch is quick AND simple.
 Jotang!
+Jotang,take me with you.
