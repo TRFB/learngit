@@ -6,3 +6,4 @@ Git tracks changes of files.
 I want to be a jotanger!
 I love jotang!
 Creating a new branch is quick.
+Jotang!
